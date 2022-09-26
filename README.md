@@ -8,7 +8,7 @@ The data used is present in data folder in which mobydick.txt contains novel's t
 
 The code used is written in main.py
 
-Steps to execute:
+## Steps to execute:
 
 1. create a virtualenv so that libraries used in this code doesn't effect libraries in core python 
 
@@ -16,9 +16,12 @@ Steps to execute:
 
 3. Run the code using python main.py
 
+4. For unit testing test.py needs to be executed using python test.py 
+
 Note: The folder output will be created once you run this file. It will contain images of output such as word-cloud and frequency distribution of words.
 
-Progression of code:
+
+## Progression of code:
 
 Step 1: the analysis of data file was done by checking what is present in stop-words.txt file first and writing the code for preprocessing the file to usable array format. 
 
@@ -35,3 +38,7 @@ Step 6: creating the sorting code and printing it in terminal. RepresentatioPutt
 Step 7: writing the code comments
 
 Step 8: Visualization of frequency distribution graph
+
+Step 9: Code readability and code comments was improved
+
+Step 10: Test cases written
