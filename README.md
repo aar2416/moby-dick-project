@@ -42,3 +42,5 @@ Step 8: Visualization of frequency distribution graph
 Step 9: Code readability and code comments was improved
 
 Step 10: Test cases written
+
+Step 11: Exception Handling in code
